@@ -1,0 +1,20 @@
+{
+  "newapi_base_url": {
+    "type": "string",
+    "description": "NewAPI 站点地址",
+    "hint": "例如 https://your-domain.com，不要带末尾斜杠",
+    "default": ""
+  },
+  "bot_secret": {
+    "type": "string",
+    "description": "Bot 密钥（与 NewAPI 后台 系统设置-安全与限制-QQ群验证 里的 Bot 密钥一致）",
+    "hint": "建议 48 位随机十六进制字符串",
+    "default": ""
+  },
+  "allowed_groups": {
+    "type": "list",
+    "description": "允许获取验证码的QQ群号列表（留空表示所有群都允许）",
+    "hint": "例如 [123456789]",
+    "default": []
+  }
+}
