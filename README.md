@@ -4,11 +4,11 @@ AstrBot 插件：群成员在群里发送 `/获取验证码`，为 **NewAPI** �
 
 ---
 
-## ⚠️ 先决条件（必读）
+##  先决条件（必读）
 
-**本插件只是"发码端"，必须先在 NewAPI 上安装配套补丁，否则调用接口会 404。**
+**本插件只是"发码端"，先在 NewAPI 上安装配套补丁，否则调用接口会 404。**
 
-👉 **NewAPI 补丁（含逐步安装说明）**：
+ **NewAPI 补丁（含逐步安装说明）**：
 **https://github.com/7985200/newapi-qq-group-verification**
 
 装完补丁后，NewAPI 才会有 `POST /api/qq-group/verification/code` 这个接口，本插件才能工作。
