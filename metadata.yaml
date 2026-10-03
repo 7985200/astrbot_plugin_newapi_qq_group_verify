@@ -1,6 +1,6 @@
 name: astrbot_plugin_newapi_qq_group_verify
 display_name: NewAPI QQ群验证
-desc: 在QQ群中发送 /获取验证码 生成验证码，用于 NewAPI 个人资料的 QQ 群绑定验证
+desc: 群成员发送 /获取验证码，为 NewAPI 签发 QQ 群验证码。⚠️ 本插件只是「发码端」，必须先在 NewAPI 上安装配套补丁才能生效。补丁地址：https://github.com/7985200/newapi-qq-group-verification
 version: v1.0.0
-author: your_name
-repo: https://github.com/your_name/astrbot_plugin_newapi_qq_group_verify
+author: "7985200"
+repo: https://github.com/7985200/astrbot_plugin_newapi_qq_group_verify
