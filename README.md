@@ -56,8 +56,6 @@ AstrBot 插件：群成员在群里发送 `/获取验证码`，为 **NewAPI** �
 
 <sub>
 
-**关键词 / Keywords**：NewAPI 进群验证、NewAPI 加群验证、NewAPI QQ群验证、NewAPI 进群才能用、QQ群绑定、
-AstrBot 插件、AstrBot NewAPI 插件、astrbot_plugin、群验证码、加群验证码、One API 进群验证、
-newapi qq group verification、astrbot newapi plugin。
+草死
 
 </sub>
