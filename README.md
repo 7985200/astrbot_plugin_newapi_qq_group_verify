@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Moe Counter" src="https://count.getloli.com/@astrbot_plugin_newapi_qq_group_verify?theme=asoul&darkmode=auto&scale=1">
+</p>
+
 # astrbot_plugin_newapi_qq_group_verify
 
 AstrBot 插件：群成员在群里发送 `/获取验证码`，为 **NewAPI** 的「QQ 群验证」签发验证码。
