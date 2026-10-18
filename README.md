@@ -1,7 +1,12 @@
 <p align="center">
+  <a href="https://deepwiki.com/7985200/astrbot_plugin_newapi_qq_group_verify">
+    <img alt="Ask DeepWiki" src="https://img.shields.io/badge/Ask_DeepWiki-007ec6?labelColor=0a0a0b">
+  </a>
+  <img alt="License" src="https://img.shields.io/github/license/7985200/astrbot_plugin_newapi_qq_group_verify?labelColor=0a0a0b">
+  <img alt="Release" src="https://img.shields.io/github/v/release/7985200/astrbot_plugin_newapi_qq_group_verify?labelColor=0a0a0b">
+  <br>
   <img alt="Moe Counter" src="https://count.getloli.com/@astrbot_plugin_newapi_qq_group_verify?theme=asoul&darkmode=auto&scale=1">
 </p>
-
 # astrbot_plugin_newapi_qq_group_verify
 
 AstrBot 插件：群成员在群里发送 `/获取验证码`，为 **NewAPI** 的「QQ 群验证」签发验证码。
