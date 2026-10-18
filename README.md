@@ -5,7 +5,7 @@
   <img alt="License" src="https://img.shields.io/github/license/7985200/astrbot_plugin_newapi_qq_group_verify?labelColor=0a0a0b">
   <img alt="Release" src="https://img.shields.io/github/v/release/7985200/astrbot_plugin_newapi_qq_group_verify?labelColor=0a0a0b">
   <br>
-  <img alt="Moe Counter" src="https://count.getloli.com/@astrbot_plugin_newapi_qq_group_verify?theme=asoul&darkmode=auto&scale=1">
+  <img alt="Moe Counter" src="https://count.getloli.com/get/@astrbot_plugin_newapi_qq_group_verify?theme=asoul&darkmode=auto&scale=1">
 </p>
 # astrbot_plugin_newapi_qq_group_verify
 
